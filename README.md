@@ -1,5 +1,5 @@
 # KZAlertController-iOS7
-This class allows you to code against UIAlertController APIs, but still support iOS 7.  The only difference between the SDK8 API and this is that you must allocate with 'KZUI' classes.
+This class allows you to code against UIAlertController APIs, but still support iOS 7.  The only difference between the SDK8 API and this is that you must allocate with 'KZUI' classes.  **The iOS 8 UIAlertController will be created if it is available.**
 
 Not a whole lot of testing has been done yet, so I'm sure there are scenarios that aren't supported well.
 
